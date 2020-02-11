@@ -1,0 +1,27 @@
+{
+  "name": "eleventy-plugin-cloudinary",
+  "version": "0.0.1",
+  "description": "An Eleventy plugin which provides an image shortcode for Cloudinary",
+  "main": ".eleventy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfernandes/eleventy-plugin-cloudinary.git"
+  },
+  "keywords": [
+    "eleventy",
+    "cloudinary"
+  ],
+  "author": {
+    "name": "Juan Fernandes",
+    "email": "hello@juanfernandes.uk",
+    "url": "https://www.juanfernandes.uk/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanfernandes/eleventy-plugin-cloudinary/issues"
+  },
+  "homepage": "https://github.com/juanfernandes/eleventy-plugin-cloudinary#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.5.2"
+  }
+}
