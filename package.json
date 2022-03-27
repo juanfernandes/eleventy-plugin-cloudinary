@@ -9,6 +9,7 @@
   },
   "keywords": [
     "eleventy",
+    "eleventy-plugin",
     "cloudinary"
   ],
   "author": {
