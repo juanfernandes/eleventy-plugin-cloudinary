@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/juanfernandes/eleventy-plugin-cloudinary#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.5.2"
+    "@11ty/eleventy": "^1.0.0"
   }
 }
